@@ -17,3 +17,8 @@ if __name__ == "__main__":
     wordlist = ["123456", "password", "letmein", "secret123", "admin"]
 
     brute_force_attack(password_to_crack, wordlist)
+Trying password: 123456
+Trying password: password
+Trying password: letmein
+Trying password: secret123
+Password found: secret123
